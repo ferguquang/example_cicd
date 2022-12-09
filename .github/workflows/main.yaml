@@ -41,4 +41,4 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "build/app/outputs/flutter-apk/app-release.apk"
-          token: "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"
+          token: "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"
